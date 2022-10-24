@@ -13,24 +13,23 @@ University of Houston
 ### Instructor
 
 Undergraduate Classes
-- TBA (Summer 2023)
+- Principles of Macroeconomics (Fall 2022)
 
 ### Teaching Assistant
-
-Ph.D. Classes
-- Econometrics II (Fall 2022)
-- Microeconomic Theory II (Spring 2022)
-- Macroeconomic Theory I (Fall 2021)
 
 Undergraduate Classes
 - TBA (Spring 2023)
-- Money and Banking (Fall 2020, Spring 2021)
-- Principles of Macroeconomics (Fall 2020, Spring 2021)
+- Introduction to Economic Analysis (Fall 2021, Spring 2022)
 
-Western Kentucky University
+African School of Economics (Benin)
 --
+
+### Instructor
+
+Undergraduate Classes
+- Computer Science (Spring 2019)
 
 ### Teaching Assistant
 
-Undergraduate Classes
-- Principles of Microeconomics (Fall 2019, Spring 2020)
+Master Classes
+- Microeconomics (Spring 2020)
