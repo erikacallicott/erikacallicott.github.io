@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "William Bennett"
+title                    : "Yabo Vidogbena"
 title_separator          : "-"
-name                     : &name "William"
-description              : &description "Economist"
-url                      : https://williambennettecon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Yabo Vidogbena"
+description              : #&description "Economist"
+url                      : https://yabogv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "williambennettecon/williambennettecon.github.io"
+repository               : "yabogv/yabogv.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "wrbennett@uh.edu"
+    email                : "yvidogbena@uh.edu"
   generatedFields:
     date:
       type               : "date"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "William Bennett"
+  name             : "Yabo Vidogbena"
   avatar           : "profile.jpg"
-  bio              : "Economist"
+  bio              : #"Economist"
   location         : "Houston, Texas, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "wrbennett@uh.edu"
+  email            : "yvidogbena@uh.edu"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "williambennettecon"
+  github           : "YaboGV"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "william-bennett-b65a05178/"
+  linkedin         : "yabo-gwladys-vidogbena-b2b544104/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
