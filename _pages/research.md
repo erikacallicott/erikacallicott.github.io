@@ -10,4 +10,4 @@ author_profile: true
 Works in Progress
 --
 
-[Height and Income in Indonesia](http://YaboGV.github.io/files/Vidogbena (2022).pdf)
+[Height and Income in Indonesia]
