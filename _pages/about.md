@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd-year Ph.D. student in Economics at the [UH](https://www.uh.edu/). I have my interest in development economics.
+I am a 3rd-year Ph.D. student in Economics at [UH](https://www.uh.edu/). I have my interests in development.
