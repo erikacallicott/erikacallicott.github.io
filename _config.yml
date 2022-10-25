@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yabo Vidogbena"
+title                    : "Yabo G. Vidogbena"
 title_separator          : "-"
-name                     : &name "Yabo Vidogbena"
+name                     : &name "Yabo G. Vidogbena"
 description              : #&description "Economist"
 url                      : https://yabogv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yabo Vidogbena"
+  name             : "Yabo G. Vidogbena"
   avatar           : "profile.jpeg"
   bio              : #"Economist"
   location         : "Houston, Texas, US"
