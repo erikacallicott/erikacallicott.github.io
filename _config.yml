@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yabo G. Vidogbena"
+title                    : "Erika Callicott"
 title_separator          : "-"
-name                     : &name "Yabo G. Vidogbena"
+name                     : &name "Erika Callicott"
 description              : #&description "Economist"
-url                      : https://yabogv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://erikacallicott.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "yabogv/yabogv.github.io"
+repository               : "erikacallicott/erikacallicott.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -40,7 +40,7 @@ staticman:
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
-    email                : "yvidogbena@uh.edu"
+    email                : "e.m.callicott@gmail.com"
   generatedFields:
     date:
       type               : "date"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yabo G. Vidogbena"
+  name             : "Erika Callicott"
   avatar           : "profile.jpeg"
   bio              : #"Economist"
   location         : "Houston, Texas, US"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "yvidogbena@uh.edu"
+  email            : "e.m.callicott@gmail.com"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YaboGV"
+  github           : "erikacallicott"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "yabo-gwladys-vidogbena-b2b544104/"
+  linkedin         : #"yabo-gwladys-vidogbena-b2b544104/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
