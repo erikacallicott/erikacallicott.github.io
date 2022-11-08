@@ -7,7 +7,6 @@ author_profile: true
 
 {% include base_path %}
 
-Working Papers
 --
 
 # The Fed's Policy Rules and the Neutral Real Interest Rate
