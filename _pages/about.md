@@ -7,5 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+## Welcome! 
 
-I am a 3rd-year Ph.D. student in Economics at [UH](https://www.uh.edu/). I have my interests in development.
+I am a third-year PhD candidate in economics at the University of Houston. My research interests are monetary policy and climate change. 
+
