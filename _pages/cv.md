@@ -7,4 +7,4 @@ author_profile: true
 
 {% include base_path %}
 
-[Curriculum vitae](http://YaboGV.github.io/files/VYG_CV.pdf)
+Here is my [CV](http://erikacallicott.github.io/files/erikacallicott_cv.pdf)
